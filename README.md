@@ -1,0 +1,2 @@
+# RSCoin-CryptoCurrency
+Python Cryptocurrency
